@@ -1,9 +1,9 @@
 
 TITLE: 
-smartfuture
+Union - Multi-Purpose One Page Responsive Free HTML5 template
 
 AUTHOR:
-Manuel Vivas
+DESIGNED & DEVELOPED by FREEHTML5.co
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
